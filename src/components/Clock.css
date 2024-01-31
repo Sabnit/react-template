@@ -1,0 +1,12 @@
+.button-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.btn {
+  background-color: gray;
+  font-size: 1.5em;
+  font-weight: 500;
+}
